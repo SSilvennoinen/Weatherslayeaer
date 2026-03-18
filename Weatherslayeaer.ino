@@ -20,7 +20,7 @@ const char* password = "Ossi1Paavo234";
 
 String apiKey = "07689267308b7cfbbad02f8d175c27c9";
 String city = "Helsinki";
-String weatherURL = "http://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid=" + apiKey + "&units=metric";
+String weatherURL = "ENTER YOUR OWN API HERE";
 
 Timezone Helsinki;
 
