@@ -80,4 +80,5 @@ ezTime
 Adafruit NeoPixel
 
 Code
-The full source code is available in this repository: https://github.com/SSilvennoinen/Weatherslayeaer
+The full source code is available in this repository: 
+https://github.com/SSilvennoinen/Weatherslayeaer
