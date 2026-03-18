@@ -1,7 +1,7 @@
 Weatherslayeaer – IoT Weather Display
 Weatherslayeaer is a playful IoT weather board built with an ESP32, an LED matrix, animated NeoPixel lights, and a 3D‑printed frame. The device fetches real‑time weather data from the OpenWeather API and displays the current time, temperature, weather condition, and a humorous weather‑based quote. The LED strip around the frame changes color depending on the temperature, giving the device a lively and atmospheric look.
 
-✨ Features
+Features
 Real‑time weather data fetched from OpenWeather
 
 LED matrix display showing:
@@ -22,7 +22,7 @@ Custom 3D‑printed nameplate (“Weatherslayeaer”)
 
 WiFi‑connected ESP32 for continuous updates
 
-🧠 How It Works
+How It Works
 Weather Fetching
 The ESP32 connects to WiFi and retrieves weather data in JSON format.
 We parse:
